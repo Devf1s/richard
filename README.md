@@ -1,7 +1,7 @@
 ____
 # Richard
 ____
-[Site](https://1kiritos1.github.io/richard/)
+[Site](https://devf1s.github.io/richard/)
 
 ### Used:
 * ***HTML***
